@@ -1,0 +1,1 @@
+./Debug/sil.c.o ./Debug/listele.c.o ./Debug/ekle.c.o ./Debug/menu.c.o ./Debug/ara.c.o ./Debug/main.c.o
