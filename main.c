@@ -3,6 +3,14 @@
 #include<stdlib.h>
 #include "kutuphaneLibrary.h"
 
+/*
+*
+*  Written By Mustafa TURKMEN
+*  Beginner Developer & Computer Engineering Student
+*  mustafatrkmn@yandex.com
+*
+*/
+
 
 int main()
 {
